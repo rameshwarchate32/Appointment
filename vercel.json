@@ -8,6 +8,9 @@
         {
             "src": "/(.*)",
             "dest": "appointment/wsgi.py"
+
+
         }
     ]
 }
+ 
